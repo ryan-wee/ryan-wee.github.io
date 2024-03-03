@@ -1205,8 +1205,10 @@ input, select, textarea {
 		width: 100%;
 		padding: 4rem 2rem;
 		z-index: 3;
-		/* background-image: url("/Users/ryanwee/html5up-dimension/images/Diagram_of_the_brain._Wellcome_L0008294.jpeg"); */
-		/* background-size: contain; */
+		/* background-image: url("/Users/ryanwee/Dropbox/Mac/Documents/GitHub/ryan-wee.github.io/images/Diagram_of_the_brain._Wellcome_L0008294.jpg");
+		background-repeat: no-repeat;
+  		background-position: 10% 30%;
+  		background-size: 150%; */
 	}
 
 		#wrapper:before {
